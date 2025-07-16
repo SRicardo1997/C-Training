@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch_Statement_Expression", "Switch_Statement_Expression\Switch_Statement_Expression.csproj", "{A1F21CCB-EA06-4CD2-9084-30838AD1C790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop", "Loop\Loop.csproj", "{4591C2BB-3563-4280-BD97-F9E800272FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RodePise_Loop", "RodePise_Loop\RodePise_Loop.csproj", "{5287A3A1-531A-4961-A198-32EC8A04BB70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F21CCB-EA06-4CD2-9084-30838AD1C790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F21CCB-EA06-4CD2-9084-30838AD1C790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F21CCB-EA06-4CD2-9084-30838AD1C790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F21CCB-EA06-4CD2-9084-30838AD1C790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4591C2BB-3563-4280-BD97-F9E800272FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4591C2BB-3563-4280-BD97-F9E800272FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4591C2BB-3563-4280-BD97-F9E800272FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4591C2BB-3563-4280-BD97-F9E800272FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5287A3A1-531A-4961-A198-32EC8A04BB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5287A3A1-531A-4961-A198-32EC8A04BB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5287A3A1-531A-4961-A198-32EC8A04BB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5287A3A1-531A-4961-A198-32EC8A04BB70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
